@@ -1,0 +1,18 @@
+{
+    "name": "e2517",
+    "version": "1.0.0",
+    "description": "Project with nodejs, graphql, mongodb and local data",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "apollo-server-express": "^2.13.1",
+        "express": "^4.17.1",
+        "graphql": "^15.0.0",
+        "mongoose": "^5.9.13"
+    }
+}
