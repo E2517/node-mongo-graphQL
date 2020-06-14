@@ -2,7 +2,7 @@
 
 ### Description
 
-Project with Nodejs GraphQL and MongoDB to manipulate data.
+Project with Nodejs GraphQL and MongoDB to manipulate data (file serverGraphMongo).
 
 
 ### Node
